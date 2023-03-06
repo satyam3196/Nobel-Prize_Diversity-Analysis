@@ -19,9 +19,13 @@ This dataset was obtained from Kaggle.
 The analysis was conducted using Python and Jupyter Notebook. The following Python libraries were used:
 
 • pandas
+
 • numpy
+
 • matplotlib
+
 • seaborn
+
 The Jupyter Notebook with the full analysis can be found above.
 
 ### Conclusions
